@@ -50,8 +50,8 @@
 | [meta-clang](https://github.com/kraj/meta-clang) | Clang/LLVM C/C++ cross compiler for OE/Yocto | ⭐ 86 forks |
 | [meta-openwrt](https://github.com/kraj/meta-openwrt) | OE/Yocto metadata layer for OpenWRT | ⭐ 47 forks |
 | [meta-altera](https://github.com/kraj/meta-altera) | Official Altera BSP layer for OE/Yocto | ⭐ 47 forks |
-| [ct-scripts](https://github.com/kraj/ct-scripts) | GCC cross toolchain builder scripts | |
-| [meta-riscv](https://github.com/kraj/meta-riscv) | RISC-V architecture layer for OE/Yocto | |
+| [Yoe Distro](https://github.com/YoeDistro/yoe-distro) | Embedded Linux distribution optimized for product development | ⭐ 58 forks |
+| [meta-riscv](https://github.com/kraj/meta-riscv) | RISC-V architecture layer for OE/Yocto | ⭐ 184 forks |
 
 ---
 
