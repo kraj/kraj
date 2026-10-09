@@ -14,7 +14,7 @@
 - **[Yocto Project](https://www.yoctoproject.org/)** — Core metadata maintainer
 - **[OpenEmbedded](https://www.openembedded.org/)** — Main layer maintainer ([meta-openembedded](https://github.com/openembedded/meta-openembedded))
 - **[meta-clang](https://github.com/kraj/meta-clang)** — Clang/LLVM cross-compiler layer for OE/Yocto
-- **[Yoe Distro](https://github.com/YoeDistro/)** — Production-ready, customizable embedded Linux distribution
+- **[Yoe Distro](https://github.com/YoeDistro/yoe-distro)** — Production-ready, customizable embedded Linux distribution
 - **[meta-riscv](https://github.com/riscv/meta-riscv)** — OpenEmbedded/Yocto layer for RISC-V architecture
 - **[meta-openwrt](https://github.com/kraj/meta-openwrt)** — OpenWRT overlay for OE/Yocto
 - **[meta-raspberrypi](https://github.com/agherzan/meta-raspberrypi)** — Yocto layer for Raspberry Pi devices
